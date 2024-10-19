@@ -23,3 +23,5 @@ CREATE TABLE RFM_Table (
     Monetary_Score INT,
     Customer_Segment VARCHAR(50)
 );
+
+**### 1. Create the RFM Table**
